@@ -67,7 +67,8 @@ a {
 }
 
 .footer {
-  background-color: rgb(233, 230, 230);
+  /* background-color: rgb(233, 230, 230); */
+  background-color: #eeeeee;
   justify-self: flex-end;
 }
 
@@ -86,4 +87,8 @@ a {
 
 .right-links {
   margin-right: 8px;
+}
+
+button {
+  padding: 8px;
 }
